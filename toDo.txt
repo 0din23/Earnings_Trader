@@ -1,0 +1,16 @@
+# To Do Prio
+- Trading Universum klarer abstecken
+- Daten Management verbessern
+- check_universe function besser
+
+
+
+
+# Would be nice
+- Finviz noch zum Scrapen einbauen
+
+
+
+
+
+
